@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ApiHackr
+- 👋 Hi, I’m ApiHackr
 - 👀 I'm interested in ethical hacking and contributing to open-source projects.
 
 <!---
