@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ApiHackr
-- 👀 I’m interested in Hacking and Open-Source
+- 👀 I'm interested in ethical hacking and contributing to open-source projects.
 
 <!---
 ApiHackr/ApiHackr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
